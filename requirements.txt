@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+feedparser
+pydeck
+wordcloud
+matplotlib
+vaderSentiment
+textblob
+pytrends
+requests
+scikit-learn
