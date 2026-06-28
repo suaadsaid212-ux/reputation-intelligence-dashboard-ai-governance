@@ -188,3 +188,15 @@ st.info(
     "edition, not the exact reader location. English sentiment uses VADER/TextBlob; "
     "other languages use a prototype lexicon that should be validated during the fellowship."
 )
+st.info(
+    "Multilingual collection uses Google News language/country editions and "
+    "language-specific keyword taxonomies. Geography reflects the selected news "
+    "edition, not the exact reader location. English sentiment uses VADER/TextBlob; "
+    "other languages use a prototype lexicon that should be validated during the fellowship."
+)
+
+st.subheader("Geographic Narrative Exposure")
+
+geo_summary = (
+    ...
+)
