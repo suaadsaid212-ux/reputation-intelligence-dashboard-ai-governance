@@ -12,3 +12,4 @@ textblob
 pytrends
 requests
 scikit-learn
+Pillow
