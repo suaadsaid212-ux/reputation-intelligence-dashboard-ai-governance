@@ -1,0 +1,101 @@
+﻿Portfolio,Description,Entity_ID
+GCC Energy,Major GCC energy producers and strategic energy institutions.,OQ
+GCC Energy,Major GCC energy producers and strategic energy institutions.,PDO
+GCC Energy,Major GCC energy producers and strategic energy institutions.,OMAN_LNG
+GCC Energy,Major GCC energy producers and strategic energy institutions.,ARAMCO
+GCC Energy,Major GCC energy producers and strategic energy institutions.,ADNOC
+GCC Energy,Major GCC energy producers and strategic energy institutions.,QATARENERGY
+GCC Energy,Major GCC energy producers and strategic energy institutions.,KPC
+GCC Energy,Major GCC energy producers and strategic energy institutions.,BAPCO_ENERGIES
+GCC Banks,Major banking institutions across the Gulf.,BANKMUSCAT
+GCC Banks,Major banking institutions across the Gulf.,BANK_DHOFAR
+GCC Banks,Major banking institutions across the Gulf.,NBO
+GCC Banks,Major banking institutions across the Gulf.,SOHAR_INTL
+GCC Banks,Major banking institutions across the Gulf.,AHLI_BANK_Oman
+GCC Banks,Major banking institutions across the Gulf.,ALRAJHI
+GCC Banks,Major banking institutions across the Gulf.,SNB_SAUDI
+GCC Banks,Major banking institutions across the Gulf.,FAB
+GCC Banks,Major banking institutions across the Gulf.,EMIRATES_NBD
+GCC Banks,Major banking institutions across the Gulf.,QNB
+GCC Banks,Major banking institutions across the Gulf.,NBK
+GCC Banks,Major banking institutions across the Gulf.,KFH
+GCC Banks,Major banking institutions across the Gulf.,BANK_ABC
+GCC Central Banks & Regulators,Central banks and financial regulators across GCC markets.,CENTRAL_BANK_OMAN
+GCC Central Banks & Regulators,Central banks and financial regulators across GCC markets.,FSA_OMAN
+GCC Central Banks & Regulators,Central banks and financial regulators across GCC markets.,SAMA
+GCC Central Banks & Regulators,Central banks and financial regulators across GCC markets.,CBK_KUWAIT
+GCC Central Banks & Regulators,Central banks and financial regulators across GCC markets.,CBB
+GCC Telecom & Digital,"Telecom, digital infrastructure and technology leaders in the Gulf.",OMANTEL
+GCC Telecom & Digital,"Telecom, digital infrastructure and technology leaders in the Gulf.",OOREDOO_OMAN
+GCC Telecom & Digital,"Telecom, digital infrastructure and technology leaders in the Gulf.",VODAFONE_OMAN
+GCC Telecom & Digital,"Telecom, digital infrastructure and technology leaders in the Gulf.",STC_SAUDI
+GCC Telecom & Digital,"Telecom, digital infrastructure and technology leaders in the Gulf.",EAND
+GCC Telecom & Digital,"Telecom, digital infrastructure and technology leaders in the Gulf.",OOREDOO_QATAR
+GCC Telecom & Digital,"Telecom, digital infrastructure and technology leaders in the Gulf.",BEYON
+GCC Telecom & Digital,"Telecom, digital infrastructure and technology leaders in the Gulf.",G42
+GCC Telecom & Digital,"Telecom, digital infrastructure and technology leaders in the Gulf.",SDAIA
+GCC Aviation & Logistics,"Airlines, ports and logistics organizations across GCC markets.",ASYAD
+GCC Aviation & Logistics,"Airlines, ports and logistics organizations across GCC markets.",OMAN_AIR
+GCC Aviation & Logistics,"Airlines, ports and logistics organizations across GCC markets.",SALAM_AIR
+GCC Aviation & Logistics,"Airlines, ports and logistics organizations across GCC markets.",PORT_SALALAH
+GCC Aviation & Logistics,"Airlines, ports and logistics organizations across GCC markets.",SOHAR_PORT
+GCC Aviation & Logistics,"Airlines, ports and logistics organizations across GCC markets.",DUQM_PORT
+GCC Aviation & Logistics,"Airlines, ports and logistics organizations across GCC markets.",EMIRATES
+GCC Aviation & Logistics,"Airlines, ports and logistics organizations across GCC markets.",QATAR_AIRWAYS
+GCC Sovereign & Public Investment,Sovereign wealth funds and strategic investment institutions.,OIA
+GCC Sovereign & Public Investment,Sovereign wealth funds and strategic investment institutions.,PIF_SAUDI
+GCC Sovereign & Public Investment,Sovereign wealth funds and strategic investment institutions.,MUBADALA
+GCC Sovereign & Public Investment,Sovereign wealth funds and strategic investment institutions.,ADIA
+GCC Sovereign & Public Investment,Sovereign wealth funds and strategic investment institutions.,QIA
+GCC Strategic Government,High-priority government and strategic public-sector entities.,OMANGOV
+GCC Strategic Government,High-priority government and strategic public-sector entities.,MTCIT_OMAN
+GCC Strategic Government,High-priority government and strategic public-sector entities.,MOH_OMAN
+GCC Strategic Government,High-priority government and strategic public-sector entities.,MOE_OMAN
+GCC Strategic Government,High-priority government and strategic public-sector entities.,MHERI_OMAN
+GCC Strategic Government,High-priority government and strategic public-sector entities.,SAMA
+GCC Strategic Government,High-priority government and strategic public-sector entities.,SDAIA
+GCC Strategic Government,High-priority government and strategic public-sector entities.,PIF_SAUDI
+GCC Strategic Government,High-priority government and strategic public-sector entities.,MUBADALA
+GCC Strategic Government,High-priority government and strategic public-sector entities.,ADIA
+GCC Strategic Government,High-priority government and strategic public-sector entities.,QATARENERGY
+GCC Strategic Government,High-priority government and strategic public-sector entities.,QIA
+GCC Strategic Government,High-priority government and strategic public-sector entities.,CBK_KUWAIT
+GCC Strategic Government,High-priority government and strategic public-sector entities.,CBB
+Global AI Companies,"Large AI, cloud and enterprise technology organizations.",OPENAI
+Global AI Companies,"Large AI, cloud and enterprise technology organizations.",ANTHROPIC
+Global AI Companies,"Large AI, cloud and enterprise technology organizations.",MSFT
+Global AI Companies,"Large AI, cloud and enterprise technology organizations.",GOOGLE
+Global AI Companies,"Large AI, cloud and enterprise technology organizations.",META
+Global AI Companies,"Large AI, cloud and enterprise technology organizations.",NVDA
+Global AI Companies,"Large AI, cloud and enterprise technology organizations.",IBM
+Global AI Companies,"Large AI, cloud and enterprise technology organizations.",ORACLE
+Global AI Companies,"Large AI, cloud and enterprise technology organizations.",SAP
+Global AI Companies,"Large AI, cloud and enterprise technology organizations.",SALESFORCE
+Global Universities,Higher-education institutions for public trust and governance comparison.,KFU
+Global Universities,Higher-education institutions for public trust and governance comparison.,CARDIFF
+Global Universities,Higher-education institutions for public trust and governance comparison.,SQU
+Global Universities,Higher-education institutions for public trust and governance comparison.,OXFORD
+Global Universities,Higher-education institutions for public trust and governance comparison.,CAMBRIDGE
+Global Universities,Higher-education institutions for public trust and governance comparison.,HARVARD
+Global Universities,Higher-education institutions for public trust and governance comparison.,MIT
+Global Universities,Higher-education institutions for public trust and governance comparison.,MSU
+Global Universities,Higher-education institutions for public trust and governance comparison.,HSE
+Global Universities,Higher-education institutions for public trust and governance comparison.,SPBU
+Global Universities,Higher-education institutions for public trust and governance comparison.,MGIMO
+Global Universities,Higher-education institutions for public trust and governance comparison.,SKOLTECH
+Global Universities,Higher-education institutions for public trust and governance comparison.,IMPERIAL
+Global Universities,Higher-education institutions for public trust and governance comparison.,UCL
+Global Universities,Higher-education institutions for public trust and governance comparison.,LSE_UNI
+Global Universities,Higher-education institutions for public trust and governance comparison.,KINGS_COLLEGE
+Global Universities,Higher-education institutions for public trust and governance comparison.,MANCHESTER_UNI
+Global Universities,Higher-education institutions for public trust and governance comparison.,EDINBURGH_UNI
+Global Universities,Higher-education institutions for public trust and governance comparison.,NATIONAL_UNIVERSITY_OMAN
+Global Universities,Higher-education institutions for public trust and governance comparison.,GUtech
+Global Universities,Higher-education institutions for public trust and governance comparison.,MUSCAT_UNIVERSITY
+Global Universities,Higher-education institutions for public trust and governance comparison.,MIDDLE_EAST_COLLEGE
+International Institutions,Major global public and multilateral institutions.,UNICEF
+International Institutions,Major global public and multilateral institutions.,WHO
+International Institutions,Major global public and multilateral institutions.,UNDP
+International Institutions,Major global public and multilateral institutions.,WORLD_BANK
+International Institutions,Major global public and multilateral institutions.,IMF
+International Institutions,Major global public and multilateral institutions.,EU
