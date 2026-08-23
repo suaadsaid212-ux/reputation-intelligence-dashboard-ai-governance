@@ -13,3 +13,4 @@ pytrends
 requests
 scikit-learn
 Pillow
+openpyxl
