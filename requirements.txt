@@ -14,3 +14,4 @@ requests
 scikit-learn
 Pillow
 openpyxl
+krippendorff>=0.6.1
