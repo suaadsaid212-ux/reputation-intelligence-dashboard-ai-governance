@@ -1477,8 +1477,3 @@ st.caption(
     "Research prototype. Preserve source links, coding files, manual versions, expert reviews "
     "and revision records with the final article materials."
 )
-st.Page(
-    "pages/AI_Governance_Evidence_Validation.py",
-    title="AI Governance Evidence Validation",
-    icon="📋",
-),
